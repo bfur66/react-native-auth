@@ -33,3 +33,5 @@ const styles = {
     marginRight: 5
   }
 };
+
+export { Button };
